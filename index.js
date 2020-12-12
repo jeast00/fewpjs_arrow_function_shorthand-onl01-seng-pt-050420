@@ -5,3 +5,7 @@ let divide = () => {
 let square = (num) => {
   return num * num
 }
+
+let add = (a,b) => {
+  return a + b
+}
